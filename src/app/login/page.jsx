@@ -1,9 +1,10 @@
 import React from 'react';
+import Title from "@/components/Title";
 
 const Login = () => {
     return (
         <div>
-            <h1>Login Page</h1>
+            <Title>Login Page</Title>
         </div>
     );
 };
